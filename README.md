@@ -3,20 +3,24 @@ Viajes recomendados
 
 ## DESCRIPCIÓN
 Desarrollo de una API que permite gestionar un portal donde los usuarios puedan publicar recomendaciones de viaje, tanto de lugares como de experiencias poco conocidas. En ella, hay dos tipos de usuarios
-    *USUARIOS SIN REGISTRAR:
+
+   USUARIOS SIN REGISTRAR:
+    
     - Buscar recomendaciones por lugar, categoría
+    
     - Ordenar los resultados de búsqueda por votos
+    
     - Ver detalle de una recomendación
+    
     - Login (con email y password)
+    
     - Registrarse
     
-    *USUARIOS REGISTRADOS, tienen acceso a:
+   USUARIOS REGISTRADOS, tienen acceso a:
+   
     - Publicar recomendaciones (título, categoría, lugar, entradilla, texto, foto)
+    
     - Votar recomendaciones de otros usuarios
-    */- Opcional:
-      - Gestión del perfil
-      - Borrar sus recomendaciones
-      - Publicar comentarios en las recomendaciones*/
     
   ## LENGUAJES UTILIZADOS
   ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/14918f7c-b44d-461e-bc2b-09b1599031ba)
@@ -26,13 +30,16 @@ Desarrollo de una API que permite gestionar un portal donde los usuarios puedan 
   ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/2d1a268f-024e-4045-a10b-715006adcc6e)
   
   ## AUTORES
-  KAROL BRACHO
-  JON MARTÍNEZ BIDEZABAL
-  ISABEL ABAD
-  MERCEDES IÑIGUEZ
+  KAROL BRACHO, [bykarol](https://github.com/bykarol)
+  
+  JON MARTÍNEZ BIDEZABAL, https://github.com/JonBidezabal
+  
+  ISABEL ABAD, https://github.com/IsabelAbad
+  
+  MERCEDES IÑIGUEZ, [mercedesiniguez](https://github.com/mercedesiniguez)
   
  ## CONTRIBUCIONES
- https://www.google.com/search?q=paypal+image&tbm=isch&hl=en&sa=X&ved=2ahUKEwib-fP0v_T-AhXfsCcCHQPkAQwQ3VYoAHoECAEQJQ
+   
  
  
   
