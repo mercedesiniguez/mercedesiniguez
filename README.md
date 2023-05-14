@@ -32,5 +32,7 @@ utensilio
 <p align="left"> 
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
+  ![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/01608e84-8c64-4756-893f-b07350b5f322)
+
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
   </p>
