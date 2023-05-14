@@ -1,11 +1,10 @@
 ### Hi there 👋 
 
-  
 
 <!-- 
 
 **mercedesiniguez/mercedesiniguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-
+--> 
   
 
 - 🌱 I’m currently learning in the bootcamp Hack a Boss 
@@ -15,10 +14,6 @@
 - 💬 Ask me about ... 
 
 - 📫 How to reach me: miniguez@gmail.com 
-
-
---> 
- 
 
 # 💻 Tech Stack: 
 
