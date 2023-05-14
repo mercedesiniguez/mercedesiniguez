@@ -32,9 +32,9 @@ Desarrollo de una API que permite gestionar un portal donde los usuarios puedan 
   ## AUTORES
   KAROL BRACHO, [bykarol](https://github.com/bykarol)
   
-  JON MARTÍNEZ BIDEZABAL, https://github.com/JonBidezabal
+  JON MARTÍNEZ BIDEZABAL, [JonBidezabal](https://github.com/JonBidezabal)
   
-  ISABEL ABAD, https://github.com/IsabelAbad
+  ISABEL ABAD,  [IsaAbad](https://github.com/IsabelAbad)
   
   MERCEDES IÑIGUEZ, [mercedesiniguez](https://github.com/mercedesiniguez)
   
