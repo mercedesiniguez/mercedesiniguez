@@ -2,7 +2,7 @@
 Viajes recomendados
 
 ## DESCRIPCIÓN
-Desarrollo de una API que permite gestionar un portal donde los usuarios puedan publicar recomendaciones de viaje, tanto de lugares como de experiencias poco conocidas. En ella, hay dos tipos de usuarios
+Desarrollo de una API que permite gestionar un portal donde los usuarios puedan publicar recomendaciones de viaje, tanto de lugares como de experiencias poco conocidas. En ella, hay dos tipos de usuarios:
 
    USUARIOS SIN REGISTRAR:
     
@@ -22,7 +22,7 @@ Desarrollo de una API que permite gestionar un portal donde los usuarios puedan 
     
     - Votar recomendaciones de otros usuarios
     
-  ## LENGUAJES UTILIZADOS
+  ## HERRAMIENTAS Y LENGUAJES UTILIZADOS
   ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/14918f7c-b44d-461e-bc2b-09b1599031ba)
   ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/6a514410-4849-47ca-9dca-faf193cd81c6)
   ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/fcfd9fe2-7385-421b-9e76-5f9fb18b045e)
@@ -38,7 +38,11 @@ Desarrollo de una API que permite gestionar un portal donde los usuarios puedan 
   
   MERCEDES IÑIGUEZ, [mercedesiniguez](https://github.com/mercedesiniguez)
   
+  ## AGRADECIMIENTOS
+  Hack a Boss
+    
  ## CONTRIBUCIONES
+ Si quieres contribuir en este proyecto, ponte en contacto con nosotros
    
  
  
