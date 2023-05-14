@@ -30,7 +30,7 @@
  
 utensilio
 <p align="left"> 
-<i class="devicon-github-original-wordmark colored"></i>     
+<a href="https://github.com" target="_blank">  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg)" alt="github" width="65" height="65"/> 
  <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
