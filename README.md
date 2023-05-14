@@ -26,14 +26,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mercedesiniguez&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-
-  ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/14918f7c-b44d-461e-bc2b-09b1599031ba){:height="50px" width="50px"}.
-  ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/6a514410-4849-47ca-9dca-faf193cd81c6)
-  ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/fcfd9fe2-7385-421b-9e76-5f9fb18b045e)
-  ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/b98ff3c9-6304-4bd0-9af0-0271adbfa512)
-  ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/2d1a268f-024e-4045-a10b-715006adcc6e)
-    ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/14918f7c-b44d-461e-bc2b-09b1599031ba){:height="50px" width="50px"}.
-  ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/6a514410-4849-47ca-9dca-faf193cd81c6)
-  ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/fcfd9fe2-7385-421b-9e76-5f9fb18b045e)
-  ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/b98ff3c9-6304-4bd0-9af0-0271adbfa512)
-  ![image](https://github.com/bykarol/api-viajes-recomendados/assets/124776420/2d1a268f-024e-4045-a10b-715006adcc6e)
