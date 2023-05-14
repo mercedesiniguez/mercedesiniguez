@@ -29,18 +29,4 @@
 
  
 utensilio
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/42e8892d-5827-4f3f-8746-5b7729017d2c)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/4bf1d8e8-36b7-46ea-801f-418390514198)
-
-
- 
+![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/3bae8be9-b1b1-4b83-8621-173a168ad81e)
