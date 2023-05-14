@@ -30,3 +30,5 @@
  
 utensilio
 ![js image] ( https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/e47f27db-8b04-4e06-b955-f88c2187a20c)
+
