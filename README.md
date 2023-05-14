@@ -29,4 +29,6 @@
 
  
 utensilio
+![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/f939f865-f454-4c3f-8052-682aed7aebbf)
+
 ![image](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/3bae8be9-b1b1-4b83-8621-173a168ad81e)
