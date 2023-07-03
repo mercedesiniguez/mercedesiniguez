@@ -14,23 +14,18 @@ Usage
 npm start
 
 Ejecuta la aplicación en el modo de desarrollo.
-Abre http://localhost:3000 para verla en tu navegador.
+````Abre http://localhost:3000 para verla en tu navegador.
 
 La página se recargará cuando realices cambios.
 También puedes ver cualquier error en la consola.
+``npm test
 
-npm test
+
 Lanza el ejecutor de pruebas en el modo de observación interactivo.
 Consulta la sección sobre ejecución de pruebas para obtener más información.
+``npm run build
 
-npm run build
-Construye la aplicación para producción en la carpeta build.
-Agrupa correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.
-
-npm run eject
-Nota: esta es una operación unidireccional. Una vez que se expulsa, ¡no se puede volver atrás!
-
- ## INSTALACIÓN
+## INSTALACIÓN
  $ git clone 
  $ cd project
  $ npm install
@@ -42,46 +37,11 @@ Nota: esta es una operación unidireccional. Una vez que se expulsa, ¡no se pue
 <img align="left" alt="MySQL" width="26px" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
 <img align="left" alt="Node.js" width="26px" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="max-width: 100%;"></p><BR>
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d20b1e36621a477435857822031c465b86d81e9d33b5d455e6de03925379be92/68747470733a2f2f69696c692e696f2f5669477475522e706e67"><img style="width: 50%;max-width: 100%" src="https://camo.githubusercontent.com/d20b1e36621a477435857822031c465b86d81e9d33b5d455e6de03925379be92/68747470733a2f2f69696c692e696f2f5669477475522e706e67" alt data-canonical-src="https://iili.io/ViGtuR.png"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0f9ba378b3df8cc09efbc08d6e22770280f7944d06999a5ffe76ad97f2db55ee/68747470733a2f2f69696c692e696f2f5669477947742e706e67"><img style="width: 50%;max-width: 100%" src="https://camo.githubusercontent.com/0f9ba378b3df8cc09efbc08d6e22770280f7944d06999a5ffe76ad97f2db55ee/68747470733a2f2f69696c692e696f2f5669477947742e706e67" alt data-canonical-src="https://iili.io/ViGyGt.png"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/986de6d12eb12511310e3beb7436ad504ad93493dd3f2141e8a72d4b06f597ba/68747470733a2f2f69696c692e696f2f56694d3238472e706e67"><img style="width: 50%;max-width: 100%" src="https://camo.githubusercontent.com/986de6d12eb12511310e3beb7436ad504ad93493dd3f2141e8a72d4b06f597ba/68747470733a2f2f69696c692e696f2f56694d3238472e706e67" alt data-canonical-src="https://iili.io/ViM28G.png"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/97997fd83e0aa97ad1f10c9fe7eb44a73c90b41638bb1875266442894455afe4/68747470733a2f2f69696c692e696f2f56694d66776c2e706e67"><img style="width: 50%;max-width: 100%" src="https://camo.githubusercontent.com/97997fd83e0aa97ad1f10c9fe7eb44a73c90b41638bb1875266442894455afe4/68747470733a2f2f69696c692e696f2f56694d66776c2e706e67" alt data-canonical-src="https://iili.io/ViMfwl.png"></a></p>
 
-## Datos de ejemplo
-
-La base de datos travelexperience se inicializa con los siguientes datos de ejemplo:
-
-### Tabla users
-
-| **id** |          **email**         | **password** |
-|:------:|:--------------------------:|:------------:|
-|    1   | ilethem0@google.com.au     | 993870144    |
-|    2   | kmungan1@howstuffworks.com | 497494899    |
-|    3   | ydibbert2@businesswire.com | 776631050    |
-|    4   | tmcgorley3@studiopress.com | 921948685    |
-|    5   | eimbrey4@cpanel.net        | 304168000    |
-
-### Tabla Places
-
-| **id** | **title**                 | **shortDescription**                                         |    **city**   |     **country**    | **user_id** |
-|:------:|---------------------------|--------------------------------------------------------------|:-------------:|:------------------:|-------------|
-|    1   | Nadando con los tiburones | Un día de submarinismo con los tiburones blancos             |    Ningaloo   |      Australia     | 1           |
-|    2   | Avistamiento de ballenas  | Ven a ver a las ballenas jorobadas                           | Santo Domingo | Dominican Republic | 1           |
-|    3   | El Salto Ángel            | Ven a conocer el salto de agua más alto del mundo            |    Canaima    |      Venezuela     | 2           |
-|    4   | Mercado de San Miguel     | Mercado emblemático para los amantes de la buena gastronomía |     Madrid    |        Spain       | 5           |
-
-### Tabla Votes
-
-| **id** | **vote** |    **comment**   | **user_id** | **place_id** |
-|:------:|:--------:|:----------------:|:-----------:|:------------:|
-|    1   |     5    | 100% Recommended |      3      |       1      |
-|    2   |     3    | not so good      |      2      |       2      |
-|    3   |     1    | so bad           |      3      |       2      |
-|    4   |     5    | Amazing          |      5      |       1      |
-|    5   |     5    | Must do          |      4      |       3      |
-|    6   |     5    | Stunning         |      1      |       4      |
-
-### Categories
-
-| **Category 1** | **Category 2** | **Category 3** | **Category 4** | **Category 5** | **Category 6** |
-|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|----------------|
-|     Nature     |    Adventure   | Cultural       |      Sport     |      Relax     | Romantic       |
 
 ## AUTORES
   KAROL BRACHO, [bykarol](https://www.linkedin.com/in/karolbrachoyanez/)
