@@ -1,12 +1,12 @@
 
 
-## VIAJES RECOEMNDADOS
+## VIAJES RECOMENDADOS
 
 Este es un portal online donde los usuarios pueden escoger viajes, hoteles y experiencias gracias a las opiniones de quienes ya han utilizado y disfrutado de esos viajes y experiencias. Existe un sistema de votación y comentarios de los que se nutre la página web. En la actualidad, los viajeros pueden utilizar este portal para planear cada detalle de sus viajes, desde dónde se van a hospedar hasta las atracciones que van a visitar.
 
 ## ¿CÓMO COMENZAR?
 Para ejecutar el proyecto necesitas:
-$Node Package Manager (NPM)
+````Node Package Manager (NPM)
 React
 Usage
 
