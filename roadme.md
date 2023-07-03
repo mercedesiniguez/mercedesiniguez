@@ -11,7 +11,7 @@ Node Package Manager (NPM)<br>
 React<br>
 </p>
 
-- En el directorio del proyecto, descárgate el repositorio, abre el terminal en tu editor y ejecuta el comando:
+- En el directorio del proyecto, descárgate el repositorio, abre el terminal en tu editor y ejecuta el comando:<br>
 ``npm start
 ``
 
@@ -23,12 +23,13 @@ React<br>
 ``npm test
 ``
 
-- Lanza el ejecutor de pruebas en el modo de observación interactivo.<br>
+- Para crear una instancia estática de este proyecto, ejecuta la siguiente tarea:.<br>
 ``npm run build
 ``
+Esto creará una carpeta llamada www, en la que se crearán los archivos necesarios.
 
 ## INSTALACIÓN
- `` git clone 
+ `` git clone. .........
  ``
 <br>
 ``
@@ -38,6 +39,41 @@ React<br>
  ``
     pm install
 ``
+## ESTRUCTURA DEL REPOSITORIO
+/
+├─ viajes recomendados/
+│  ├─ public/       
+│  │  ├─ api-logo.png/ 
+│  │  ├─ index.html
+│  │
+│  ├─ src/   
+│  │  ├─ components/  # …que muestran vistas previas de componentes
+│  │     ├─ footer/ # …puede aparecer en todas las páginas
+│  │     ├─ header/ # …aparece en todas las páginas
+│  │     ├─ homepage/  # …rige el macro layout
+│  │     ├─ placeDetail/  # …características específicas de cada lugar y fotos
+│  │     ├─ postNewPlace/ # …añade un nuevo lugar
+|  |     ├─ userProfile/  # …el perfil del usuario
+│  │  ├─ context/  # …that render component previews
+│  │  ├─ css/  # diseño y estilo  de las páginas
+│  │  |─ hooks/  # Documentation files
+│  │  ├─ img/  # Imágenes
+│  │  ├─ pages/ # Páginas
+│  │  |─ services  #
+│  |   └─App.css/        # Estilo de la App
+│  |   └─App.js/         # Design tokens     
+|  |   └─Index.css/      # Estilo y diseño
+|  |   └─Index.js/       # Design tokens
+|  |
+|  ├─  .env.example/  # Archivos necesarios para las compilaciones dinámicas (ignorados por Git)
+|  ├─ .gitignore/  # Lista de los archivos o carpetas que no puede rastrear Git
+|  |─ README.md/   # Este archivo de presentación del proyecto
+|  ├─ package-lock.json/  # Definiciones del estilo del código
+|  ├─ package.json/       # Manifiesto del Proyecto
+|  |
+├─ .gitignore/  # Lista de los archivos o carpetas que no puede rastrear Git
+|─  README.md/  # Este archivo de presentación del proyecto
+
 
  ## HERRAMIENTAS Y LENGUAJES UTILIZADOS
  <p>
