@@ -40,6 +40,7 @@ Esto creará una carpeta llamada www, en la que se crearán los archivos necesar
     pm install
 ``
 ## ESTRUCTURA DEL REPOSITORIO
+`` 
 /
 ├─ viajes recomendados/
 │  ├─ public/       
@@ -73,6 +74,7 @@ Esto creará una carpeta llamada www, en la que se crearán los archivos necesar
 |  |
 ├─ .gitignore/  # Lista de los archivos o carpetas que no puede rastrear Git
 |─  README.md/  # Este archivo de presentación del proyecto
+``
 
 
  ## HERRAMIENTAS Y LENGUAJES UTILIZADOS
