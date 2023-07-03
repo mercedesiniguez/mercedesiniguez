@@ -19,17 +19,19 @@ React<br>
  ``Abre http://localhost:3000 para verla en tu navegador.
  ``
 
--También puedes ver cualquier error en la consola.<br>
+- También puedes ver cualquier error en la consola.<br>
 ``npm test
 ``
 
--Lanza el ejecutor de pruebas en el modo de observación interactivo.
+- Lanza el ejecutor de pruebas en el modo de observación interactivo.
 ``npm run build
 ``
 
 ## INSTALACIÓN
- `` git clone <br>
-    cd project <br>
+ `` git clone 
+ ``
+    cd project
+ ``   
     pm install
 ``
 
