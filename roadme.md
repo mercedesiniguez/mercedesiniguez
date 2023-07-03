@@ -23,15 +23,19 @@ React<br>
 ``npm test
 ``
 
-- Lanza el ejecutor de pruebas en el modo de observación interactivo.
+- Lanza el ejecutor de pruebas en el modo de observación interactivo.<br>
 ``npm run build
 ``
 
 ## INSTALACIÓN
  `` git clone 
  ``
+<br>
+``
     cd project
- ``   
+ ``  
+ <br>
+ ``
     pm install
 ``
 
