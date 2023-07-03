@@ -14,23 +14,23 @@ React)<br>
 - En el directorio del proyecto, descárgate el repositorio, abre el terminal en tu editor y ejecuta el comando:
 npm start
 
--Ejecuta la aplicación en el modo de desarrollo.
+-Ejecuta la aplicación en el modo de desarrollo.<br>
  ``Abre http://localhost:3000 para verla en tu navegador.
  ``
 
-
--La página se recargará cuando realices cambios.
--También puedes ver cualquier error en la consola.
+-También puedes ver cualquier error en la consola.<br>
 ``npm test
-
+``
 
 -Lanza el ejecutor de pruebas en el modo de observación interactivo.
-npm run build
+``npm run build
+``
 
 ## INSTALACIÓN
- $ git clone 
- $ cd project
- $ npm install
+ `` git clone 
+    cd project
+    pm install
+``
 
  ## HERRAMIENTAS Y LENGUAJES UTILIZADOS
  <p>
@@ -39,11 +39,6 @@ npm run build
 <img align="left" alt="MySQL" width="26px" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
 <img align="left" alt="Node.js" width="26px" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="max-width: 100%;"></p><BR>
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d20b1e36621a477435857822031c465b86d81e9d33b5d455e6de03925379be92/68747470733a2f2f69696c692e696f2f5669477475522e706e67"><img style="width: 50%;max-width: 100%" src="https://camo.githubusercontent.com/d20b1e36621a477435857822031c465b86d81e9d33b5d455e6de03925379be92/68747470733a2f2f69696c692e696f2f5669477475522e706e67" alt data-canonical-src="https://iili.io/ViGtuR.png"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0f9ba378b3df8cc09efbc08d6e22770280f7944d06999a5ffe76ad97f2db55ee/68747470733a2f2f69696c692e696f2f5669477947742e706e67"><img style="width: 50%;max-width: 100%" src="https://camo.githubusercontent.com/0f9ba378b3df8cc09efbc08d6e22770280f7944d06999a5ffe76ad97f2db55ee/68747470733a2f2f69696c692e696f2f5669477947742e706e67" alt data-canonical-src="https://iili.io/ViGyGt.png"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/986de6d12eb12511310e3beb7436ad504ad93493dd3f2141e8a72d4b06f597ba/68747470733a2f2f69696c692e696f2f56694d3238472e706e67"><img style="width: 50%;max-width: 100%" src="https://camo.githubusercontent.com/986de6d12eb12511310e3beb7436ad504ad93493dd3f2141e8a72d4b06f597ba/68747470733a2f2f69696c692e696f2f56694d3238472e706e67" alt data-canonical-src="https://iili.io/ViM28G.png"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/97997fd83e0aa97ad1f10c9fe7eb44a73c90b41638bb1875266442894455afe4/68747470733a2f2f69696c692e696f2f56694d66776c2e706e67"><img style="width: 50%;max-width: 100%" src="https://camo.githubusercontent.com/97997fd83e0aa97ad1f10c9fe7eb44a73c90b41638bb1875266442894455afe4/68747470733a2f2f69696c692e696f2f56694d66776c2e706e67" alt data-canonical-src="https://iili.io/ViMfwl.png"></a></p>
-
 
 ## AUTORES
   KAROL BRACHO, [bykarol](https://www.linkedin.com/in/karolbrachoyanez/)
