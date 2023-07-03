@@ -6,7 +6,7 @@ Este es un portal online donde los usuarios pueden escoger viajes, hoteles y exp
 
 ## ¿CÓMO COMENZAR?
 Para ejecutar el proyecto necesitas:
-````Node Package Manager (NPM)
+Node Package Manager (NPM)
 React
 Usage
 
