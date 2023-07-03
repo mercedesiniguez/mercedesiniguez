@@ -5,18 +5,19 @@
 Este es un portal online donde los usuarios pueden escoger viajes, hoteles y experiencias gracias a las opiniones de quienes ya han utilizado y disfrutado de esos viajes y experiencias. Existe un sistema de votación y comentarios de los que se nutre la página web. En la actualidad, los viajeros pueden utilizar este portal para planear cada detalle de sus viajes, desde dónde se van a hospedar hasta las atracciones que van a visitar.
 
 ## ¿CÓMO COMENZAR?
-Para ejecutar el proyecto necesitas:p
+Para ejecutar el proyecto necesitas:
 <p>
-Node Package Manager (NPM)
-React
-Usage
+Node Package Manager (NPM)<br>
+React)<br>
 </p>
 
 - En el directorio del proyecto, descárgate el repositorio, abre el terminal en tu editor y ejecuta el comando:
 npm start
 
 -Ejecuta la aplicación en el modo de desarrollo.
-Abre http://localhost:3000 para verla en tu navegador.
+ ``Abre http://localhost:3000 para verla en tu navegador.
+ ``
+
 
 -La página se recargará cuando realices cambios.
 -También puedes ver cualquier error en la consola.
