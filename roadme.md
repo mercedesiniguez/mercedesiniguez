@@ -1,11 +1,16 @@
 
 
-##VIAJES RECOMENDADOS
+## VIAJES RECOEMNDADOS
 
 Este es un portal online donde los usuarios pueden escoger viajes, hoteles y experiencias gracias a las opiniones de quienes ya han utilizado y disfrutado de esos viajes y experiencias. Existe un sistema de votación y comentarios de los que se nutre la página web. En la actualidad, los viajeros pueden utilizar este portal para planear cada detalle de sus viajes, desde dónde se van a hospedar hasta las atracciones que van a visitar.
 
 ## ¿CÓMO COMENZAR?
-- En el directorio del proyecto, se puede ejecutar:
+Para ejecutar el proyecto necesitas:
+$Node Package Manager (NPM)
+React
+Usage
+
+- En el directorio del proyecto, descárgate el repositorio, abre el terminal en tu editor y ejecuta el comando:
 npm start
 
 Ejecuta la aplicación en el modo de desarrollo.
@@ -22,13 +27,13 @@ npm run build
 Construye la aplicación para producción en la carpeta build.
 Agrupa correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.
 
-La compilación se minifica y los nombres de archivo incluyen los hashes.
-Tu aplicación está lista para ser desplegada.
-
-Consulta la sección sobre despliegue para más información.
-
 npm run eject
 Nota: esta es una operación unidireccional. Una vez que se expulsa, ¡no se puede volver atrás!
+
+ ## INSTALACIÓN
+ $ git clone 
+ $ cd project
+ $ npm install
 
  ## HERRAMIENTAS Y LENGUAJES UTILIZADOS
  <p>
