@@ -83,7 +83,9 @@ Esto creará una carpeta llamada www, en la que se crearán los archivos necesar
 <img align="left" alt="MySQL" width="26px" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
 <img align="left" alt="Node.js" width="26px" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="max-width: 100%;">
-<img align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" style="max-width: 100%;"></p><BR>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" style="max-width: 100%;">
+<img align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" style="max-width: 100%;">
+<img align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" style="max-width: 100%;"></p><BR>
 
 ## AUTORES
   KAROL BRACHO, [bykarol](https://www.linkedin.com/in/karolbrachoyanez/)
