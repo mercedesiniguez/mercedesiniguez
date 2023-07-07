@@ -7,8 +7,9 @@ Este es un portal online donde los usuarios pueden escoger viajes, hoteles y exp
 ## ¿CÓMO COMENZAR?
 Para ejecutar el proyecto necesitas:
 <p>
-Node Package Manager (NPM)<br>
-React<br>
+- Node Package Manager (NPM)<br>
+- React<br>
+ 
 </p>
 
 - En el directorio del proyecto, descárgate el repositorio, abre el terminal en tu editor y ejecuta el comando:<br>
@@ -32,49 +33,16 @@ Esto creará una carpeta llamada www, en la que se crearán los archivos necesar
  `` git clone. .........
  ``
 <br>
+`` cd project
+``    
+ `` npm install
 ``
-    cd project
- ``  
- <br>
- ``
-    pm install
-``
+
+## LA HOMEPAGE
+FOTO HOME
 ## ESTRUCTURA DEL REPOSITORIO
-`` 
-/
-├─ viajes recomendados/
-│  ├─ public/       
-│  │  ├─ api-logo.png/ 
-│  │  ├─ index.html
-│  │<br>
-│  ├─ src/   
-│  │  ├─ components/  # …que muestran vistas previas de componentes
-│  │     ├─ footer/ # …puede aparecer en todas las páginas
-│  │     ├─ header/ # …aparece en todas las páginas
-│  │     ├─ homepage/  # …rige el macro layout
-│  │     ├─ placeDetail/  # …características específicas de cada lugar y fotos
-│  │     ├─ postNewPlace/ # …añade un nuevo lugar
-|  |     ├─ userProfile/  # …el perfil del usuario
-│  │  ├─ context/  # …that render component previews
-│  │  ├─ css/  # diseño y estilo  de las páginas
-│  │  |─ hooks/  # Documentation files
-│  │  ├─ img/  # Imágenes
-│  │  ├─ pages/ # Páginas
-│  │  |─ services  #
-│  |   └─App.css/  # Estilo de la App
-│  |   └─App.js/ # Design tokens     
-|  |   └─Index.css/ # Estilo y diseño
-|  |   └─Index.js/  # Design tokens
-|  |
-|  ├─  .env.example/  # Archivos necesarios para las compilaciones dinámicas (ignorados por Git)
-|  ├─ .gitignore/  # Lista de los archivos o carpetas que no puede rastrear Git
-|  |─ README.md/   # Este archivo de presentación del proyecto
-|  ├─ package-lock.json/  # Definiciones del estilo del código
-|  ├─ package.json/       # Manifiesto del Proyecto
-|  |
-├─ .gitignore/  # Lista de los archivos o carpetas que no puede rastrear Git
-|─  README.md/  # Este archivo de presentación del proyecto
-``
+
+![repo](https://github.com/mercedesiniguez/mercedesiniguez/assets/124776420/5ce96355-cab5-42af-8121-7783b8ac2f0b)
 
  ## HERRAMIENTAS Y LENGUAJES UTILIZADOS
  <p>
@@ -82,10 +50,11 @@ Esto creará una carpeta llamada www, en la que se crearán los archivos necesar
 <img align="left" alt="JavaScript" width="26px" src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
 <img align="left" alt="MySQL" width="26px" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
 <img align="left" alt="Node.js" width="26px" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="max-width: 100%;">
-<img align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" style="max-width: 100%;">
-<img align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" style="max-width: 100%;">
-<img align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" style="max-width: 100%;"></p><BR>
+<img align="left" alt="GitHub" width="26px" src="https://midu.dev/images/tags/github.png" style="max-width: 100%;">
+<img align="left" alt="GitHub" width="26px" src="https://midu.dev/images/tags/git.png" style="max-width: 100%;">
+<img align="left" alt="GitHub" width="26px" src="https://midu.dev/images/tags/css.png" style="max-width: 100%;">
+
+<img align="left" alt="GitHub" width="26px" src="https://midu.dev/images/tags/react.png" style="max-width: 100%;"></p><BR>
 
 ## AUTORES
   KAROL BRACHO, [bykarol](https://www.linkedin.com/in/karolbrachoyanez/)
